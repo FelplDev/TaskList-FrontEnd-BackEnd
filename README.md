@@ -54,6 +54,10 @@
    - Compile a aplicação com `npm run build`.
    - Inicie a aplicação desktop com `npm run electron`.
 
+## Projeto
+
+<img src="./Example.gif">
+
 ## Contribuição
 
 Se desejar contribuir para o projeto, por favor, siga as etapas abaixo:
